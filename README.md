@@ -19,7 +19,7 @@ Global Phone Validator provides frontend-only phone number validation. It does *
 ## Install
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/art-tech-fuzion/global-phone-validator@v1.0.0/phone-core.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/art-tech-fuzion/global-phone-validator@v1.1.0/phone-core.js"></script>
 ```
 
 Place this tag before the closing `</body>` tag. After loading, `PhoneCore` is available globally on `window`.
